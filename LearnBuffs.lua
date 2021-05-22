@@ -1,0 +1,12 @@
+.learn 1243 all
+.learn 1126 all
+.learn 1459 all
+.learn 131 all
+.learn 546 all
+.learn 19888 all
+.learn 19876 all
+.learn 19746 all
+.learn 7294 all
+.learn 19900 all
+.learn 20905 all
+.learn 10293 all

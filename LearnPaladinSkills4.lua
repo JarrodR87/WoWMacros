@@ -1,0 +1,9 @@
+.learn 53736 all
+.learn 31884 all
+.learn 20927 all
+.learn 32699 all
+.learn 25899 all
+.learn 25782 all
+.learn 465 all
+.learn 19891 all
+.learn 53385 all

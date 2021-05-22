@@ -1,0 +1,15 @@
+.learn 1044 all
+.learn 20217 all
+.learn 20164 all
+.learn 1038 all
+.learn 19752 all
+.learn 642 all
+.learn 6940 all
+.learn 25898 all
+.learn 53600 all
+.learn 19740 all
+.learn 20271 all
+.learn 53408 all
+.learn 53407 all
+.learn 24275 all
+.learn 32223 all

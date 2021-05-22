@@ -1,0 +1,15 @@
+.learn 3127 all
+.learn 639 all
+.learn 1152 all
+.learn 633 all
+.learn 19742 all
+.learn 26573 all
+.learn 879 all
+.learn 19750 all
+.learn 5502 all
+.learn 10326 all
+.learn 20165 all
+.learn 10324 all
+.learn 20166 all
+.learn 4987 all
+.learn 20929 all

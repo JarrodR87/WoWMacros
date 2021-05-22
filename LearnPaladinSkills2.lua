@@ -1,0 +1,14 @@
+.learn 2812 all
+.learn 25894 all
+.learn 10322 all
+.learn 54428 all
+.learn 34769 all
+.learn 34767 all
+.learn 750 all
+.learn 498 all
+.learn 53601 all
+.learn 853 all
+.learn 1022 all
+.learn 31789 all
+.learn 62124 all
+.learn 25780 all
